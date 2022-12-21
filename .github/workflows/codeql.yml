@@ -40,12 +40,6 @@ jobs:
         # Override language selection by uncommenting this and choosing your languages
         with:
           languages: javascript
-        
-        packs:
-          # Use these packs for JavaScript and TypeScript analysis
-          javascript:
-            - scope/js-pack1
-            - scope/js-pack2
 
       # Autobuild attempts to build any compiled languages (C/C++, C#, Go, or Java).
       # If this step fails, then you should remove it and run the build manually (see below).
